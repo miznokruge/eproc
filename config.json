@@ -1,0 +1,9 @@
+{
+    "es_url": "https://71c9d906af1f4f7fafa6945d01722864.ap-southeast-1.aws.found.io:9243/",
+    "es_auth": "ZWxhc3RpYzpMQVR3SE5QUFk1dEExOUVkYjY0WVoxYmg=",
+    "es_index": "tender_dummy2",
+    "lpse_url": "https://lpse.kalteng.go.id/eproc4",
+    "vendor_id": "12",
+    "vendor_name": "LPSE Provinsi Kalimantan Tengah",
+    "vendor_type": "2"
+}
